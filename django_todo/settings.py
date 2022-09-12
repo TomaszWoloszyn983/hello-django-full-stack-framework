@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-!*pmnfu072nd4$vnf2j1!zf6ku!z_&gk&9_on#f9@gd4*t$8@j
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tomasz-django-todo-app']
 
 
 # Application definition
